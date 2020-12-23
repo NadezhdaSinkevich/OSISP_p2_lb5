@@ -1,0 +1,5 @@
+LIBRARY	PhoneDataBase
+EXPORTS
+	LoadCountOfPhoneBookNode							@1
+	LoadPhoneBookNode									@2
+	LoadSearchPhoneBookList								@3
